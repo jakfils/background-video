@@ -1,11 +1,5 @@
 # Document
 
-Description
+Background video with pause/play button
 
-## Desktop view
-
-![Desktop view](./img/desktop.jpg)
-
-## Mobile view
-
-![Mobile view](./img/mobile.jpg)
+![Desktop view](./img/readme.gif)
